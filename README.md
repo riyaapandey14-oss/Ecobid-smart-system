@@ -8,6 +8,8 @@ This contains everything you need to run your app locally.
 
 View your app in AI Studio: https://ai.studio/apps/drive/1BvKp8V2pRjoTNrTK4Sz199jVX0CJvL4D
 
+**Live Demo:** [https://eco-bid-bidding-application.vercel.app/](https://eco-bid-bidding-application.vercel.app/)
+
 ## Run Locally
 
 **Prerequisites:**  Node.js
